@@ -17,7 +17,7 @@ sections:
     badge:
       label: New Website!!!..
     title: 'This Is A Bigr!!!'
-    text: |-ddd
+    text: |-
       Aenean eros ipsum, interdusdsquis dignissim non, sollicitudin vitae nisl. Aenean vel aliquetdss elidddsdst, at blandit ipsum. Sed eleifend felis sit amet erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.///
     actions:
       - type: Button
