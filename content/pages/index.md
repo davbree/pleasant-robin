@@ -18,7 +18,7 @@ sections:
       label: New Website!!!..
     title: 'This Is A Big Her!!!! **Headline**'
     text: |-
-      Aenean eros ipsum, interdum dsdsquis dignissim non, sollicitudin vitae nisl. Aenean vel aliquetdss elit, at blandit ipsum. Sed eleifend felis sit amet erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+      Aenean eros ipsum, interdum dsdsquis dignissim non, sollicitudin vitae nisl. Aenean vel aliquetdss elidsdst, at blandit ipsum. Sed eleifend felis sit amet erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
     actions:
       - type: Button
         label: Get Started
